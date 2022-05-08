@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class soma {
 
-    public static void main (String[] args) {
+    public soma() {
 
         System.out.println("Digite dois numeros");
 
